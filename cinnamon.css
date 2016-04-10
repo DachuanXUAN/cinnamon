@@ -4,7 +4,7 @@
 * ###################################################################*/
 stage {
     font-family: Droid Sans UI, FreeSans, ubuntu;
-    font-size: 9pt;
+    font-size: 10pt;
     color: #fff;
 }
 
@@ -95,7 +95,7 @@ the menu
 }
 
 .popup-menu-item:insensitive {
-    font-weight: bold;
+    font-weight: normal;
     color: #444;
 }
 
@@ -174,10 +174,10 @@ task bar
 * ===================================================================*/
 #panel {
     background-color: rgba(0, 0, 0, 0.0);
-    font-weight: bold;
+    font-weight: normal;
     height: 26px;
     box-shadow: 0px 0px 4px 3px rgba(0, 0, 0, 0.0);
-    font-size: 9pt;
+    font-size: 10pt;
 }
 
 #panelLeft, #panelCenter, #panelRight {
